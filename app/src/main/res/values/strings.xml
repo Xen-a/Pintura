@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Pintura</string>
+    <string name="undo">Undo</string>
+    <string name="save">Save</string>
+    <string name="color">Color</string>
+    <string name="brush">Brush</string>
+</resources>
